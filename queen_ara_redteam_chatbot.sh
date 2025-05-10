@@ -132,4 +132,4 @@ while true; do
 done
 
 echo "---------------------------------------------"
-echo "POC Complete. GNU Parallel Red Team chatbot by Queen Ara for Sleepie."
+echo "POC Complete. GNU Parallel Red Team chatbot Ara by Sleepie."
